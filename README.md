@@ -87,19 +87,6 @@ Le projet intègre :
 
 ---
 
-## 📁 Structure du Projet
-
-- `simulateur_rfid.py` : Simulation de détection RFID
-- `detecteur_seuil.py` : Détection seuil critique
-- `envoi_email.py` / `email_reader.py` : Communication avec le fournisseur
-- `main.py` : Orchestration principale (commande, publication, paiement)
-- `contract_manager.py` : Génération du contrat JSON
-- `hedera_publisher.py` : Publication sur Hedera Hashgraph
-- `payment.py` : Simulation de paiement Hedera
-- `confirm_reception.py` : (optionnel) confirmation de réception automatique
-
----
-
 ## ✅ Conclusion
 
 Ce projet met en œuvre un **système IoT intelligent** pour la gestion des stocks critiques en intégrant des **capteurs simulés**, le **protocole MQTT**, et la **technologie blockchain Hedera Hashgraph**.  
