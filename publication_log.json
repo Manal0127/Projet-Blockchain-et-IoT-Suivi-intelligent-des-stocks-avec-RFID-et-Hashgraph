@@ -1,0 +1,205 @@
+[
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T11:44:09.057165",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "fer",
+    "quantite": 15,
+    "prix": 87.0,
+    "date": "2025-07-15T11:44:53.338639",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T12:20:24.658655",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "fer",
+    "quantite": 15,
+    "prix": 87.0,
+    "date": "2025-07-15T12:27:05.331036",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T12:48:53.621831",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "zinc",
+    "quantite": 15,
+    "prix": 45.3,
+    "date": "2025-07-15T12:57:14.845074",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T14:13:48.850449",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "cuivre",
+    "quantite": 15,
+    "prix": 75.2,
+    "date": "2025-07-15T14:34:12.110647",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "nickel",
+    "quantite": 15,
+    "prix": 90.5,
+    "date": "2025-07-15T14:35:33.035094",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "fer",
+    "quantite": 15,
+    "prix": 87.0,
+    "date": "2025-07-15T14:42:19.133831",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T14:43:08.893496",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "nickel",
+    "quantite": 15,
+    "prix": 90.5,
+    "date": "2025-07-15T14:47:22.419930",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T14:53:28.735254",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "fer",
+    "quantite": 15,
+    "prix": 87.0,
+    "date": "2025-07-15T15:15:06.267741",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T15:26:19.766135",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T15:26:51.923612",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T15:27:15.554852",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "nickel",
+    "quantite": 15,
+    "prix": 90.5,
+    "date": "2025-07-15T15:37:27.719007",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "fer",
+    "quantite": 15,
+    "prix": 87.0,
+    "date": "2025-07-15T15:40:32.696202",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T15:50:45.563624",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "nickel",
+    "quantite": 15,
+    "prix": 90.5,
+    "date": "2025-07-15T15:52:24.397735",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "nickel",
+    "quantite": 15,
+    "prix": 90.5,
+    "date": "2025-07-15T16:01:27.913744",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "nickel",
+    "quantite": 15,
+    "prix": 90.5,
+    "date": "2025-07-15T16:19:27.487434",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "zinc",
+    "quantite": 15,
+    "prix": 45.3,
+    "date": "2025-07-15T16:22:04.377313",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T16:35:45.100309",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "zinc",
+    "quantite": 15,
+    "prix": 45.3,
+    "date": "2025-07-15T16:39:13.749465",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T18:08:26.809462",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T18:32:39.124272",
+    "topic_id": "0.0.6351894"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-16T12:22:26.054653",
+    "topic_id": "0.0.6351894"
+  }
+]

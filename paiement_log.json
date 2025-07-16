@@ -1,0 +1,65 @@
+[
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T11:20:10.124280",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752574801.986000120",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752574801.986000120"
+  },
+  {
+    "matiere": "aluminium",
+    "quantite": 15,
+    "prix": 60.0,
+    "date": "2025-07-15T11:23:24.338157",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752574996.105000388",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752574996.105000388"
+  },
+  {
+    "matiere": "zinc",
+    "quantite": 15,
+    "prix": 45.3,
+    "date": "2025-07-15T11:29:12.643795",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752575344.642000913",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752575344.642000913"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T11:44:09.057165",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752576240.439000912",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752576240.439000912"
+  },
+  {
+    "matiere": "fer",
+    "quantite": 15,
+    "prix": 87.0,
+    "date": "2025-07-15T11:44:53.338639",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752576284.719000283",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752576284.719000283"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-15T18:08:26.809462",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752599426.782000491",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752599426.782000491"
+  },
+  {
+    "matiere": "plomb",
+    "quantite": 15,
+    "prix": 50.8,
+    "date": "2025-07-16T12:22:26.054653",
+    "topic_id": "0.0.6351894",
+    "transaction_id": "0.0.6180551@1752664976.012000362",
+    "hashscan_url": "https://hashscan.io/testnet/transaction/0.0.6180551@1752664976.012000362"
+  }
+]
